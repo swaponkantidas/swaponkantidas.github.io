@@ -1,6 +1,6 @@
 title: Swapon Kanti Das
 description: Welcome to my website!
-theme:  # You can replace this with any Jekyll theme of your choice
+theme: jekyll-theme-cayman # You can replace this with any Jekyll theme of your choice
 url: https://swaponkantidas.github.io # Replace 'username' with your GitHub username
 email: Swapon.Das@yahoo.com
 social:
