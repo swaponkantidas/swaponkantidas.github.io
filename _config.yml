@@ -1,6 +1,7 @@
 title: Swapon Kanti Das
 description: Hi there, I am Swapon Kanti Das. I am interested in instructional design, L&D, UI/UX, web development, and data analysis.
-theme: jekyll-theme-midnight # You can replace this with any Jekyll theme of your choice
+theme: jekyll-theme-midnight 
+remote_theme: mmistakes/minimal-mistakes # You can replace this with any Jekyll theme of your choice
 url: https://swaponkantidas.github.io # Replace 'username' with your GitHub username
 email: Swapon.Das@yahoo.com
 social:
