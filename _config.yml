@@ -1,7 +1,6 @@
 title: Swapon Kanti Das
 description: Welcome to my website!
-theme: jekyll-theme-midnight 
-remote_theme: mmistakes/minimal-mistakes # You can replace this with any Jekyll theme of your choice
+theme:  # You can replace this with any Jekyll theme of your choice
 url: https://swaponkantidas.github.io # Replace 'username' with your GitHub username
 email: Swapon.Das@yahoo.com
 social:
