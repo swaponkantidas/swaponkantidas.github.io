@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Portfolio"
+title: "Swapon Kanti Das"
 ---
 
 # Welcome to My Portfolio
