@@ -2,43 +2,43 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000000;
+    background-color: #000000; /* Black background */
     color: #ffffff; 
 }
 
 h1, h2 {
-    color: #0056b3;
+    color: #0056b3; /* Header color */
 }
 
-section {
-    margin: 20px auto;
-    padding: 0;
-    width: 80%;
+/* General section styling */
+.section {
+    margin: 20px auto; /* Center the sections */
+    padding: 20px; /* Add padding to the sections */
+    width: 80%; /* Set the width */
     background: none; /* No background */
     box-shadow: none; /* No shadow */
-    border-radius: 0;  /* No rounded corners */
+    border-radius: 0; /* No rounded corners */
+    color: white; /* Text color for better visibility on a black background */
 }
-.education,
-.skills {
-    padding: 0; /* Same padding as the intro */
-    margin: 40px auto; /* Center the sections */
+
 ul {
-    list-style-type: none;
-    padding: 0;
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 10px; /* Spacing between list items */
 }
 
 a {
-    color: #0056b3;
-    text-decoration: none;
+    color: #0056b3; /* Link color */
+    text-decoration: none; /* Remove underline */
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline; /* Underline on hover */
 }
+
 /* Profile container to align image and text */
 .profile-container {
     display: flex; /* Enables flexbox layout */
@@ -60,17 +60,16 @@ a:hover {
     color: white; /* Text color for better visibility on a black background */
 }
 
-
 /* Footer styling */
 footer {
-    text-align: center;
-    padding: 10px;
+    text-align: center; /* Center footer text */
+    padding: 10px; /* Padding for footer */
     background-color: #1c1c1c; /* Dark grey background for the footer */
     color: #ffffff; /* White text */
     font-size: 14px; /* Slightly smaller font size */
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    position: fixed; /* Fixed position */
+    bottom: 0; /* Align to bottom */
+    width: 100%; /* Full width */
     box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1); /* Light shadow at the top */
 }
 
