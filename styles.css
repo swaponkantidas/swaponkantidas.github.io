@@ -36,6 +36,28 @@ a {
 a:hover {
     text-decoration: underline;
 }
+/* Profile container to align image and text */
+.profile-container {
+    display: flex; /* Enables flexbox layout */
+    align-items: center; /* Centers items vertically */
+}
+
+/* Profile photo styling */
+.profile-photo {
+    width: 150px; /* Set the width of the photo */
+    height: 150px; /* Set the height of the photo */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image covers the entire circle */
+    border: 2px solid #00ccff; /* Optional: Add a border around the photo */
+    margin-right: 20px; /* Adds space between the image and the text */
+}
+
+/* Profile info styling */
+.profile-info {
+    color: white; /* Text color for better visibility on a black background */
+}
+
+
 /* Footer styling */
 footer {
     text-align: center;
