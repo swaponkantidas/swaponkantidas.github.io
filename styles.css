@@ -18,7 +18,10 @@ section {
     box-shadow: none; /* No shadow */
     border-radius: 0;  /* No rounded corners */
 }
-
+.education,
+.skills {
+    padding: 40px; /* Same padding as the intro */
+    margin: 20px auto; /* Center the sections */
 ul {
     list-style-type: none;
     padding: 0;
