@@ -20,6 +20,16 @@ h1, h2 {
     border-radius: 0; /* No rounded corners */
     color: white; /* Text color for better visibility on a black background */
 }
+/* Specific margin for Education Section */
+#education {
+    margin: 40px auto; /* Adjust the top and bottom margins as needed */
+}
+
+/* Specific margin for Skills Section */
+#skills {
+    margin: 40px auto; /* Adjust the top and bottom margins as needed */
+}
+
 
 ul {
     list-style-type: none; /* Remove bullet points */
