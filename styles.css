@@ -12,7 +12,7 @@ h1, h2 {
 
 section {
     margin: 20px auto;
-    padding: 20px;
+    padding: 0;
     width: 80%;
     background: none; /* No background */
     box-shadow: none; /* No shadow */
@@ -20,8 +20,8 @@ section {
 }
 .education,
 .skills {
-    padding: 40px; /* Same padding as the intro */
-    margin: 20px auto; /* Center the sections */
+    padding: 0; /* Same padding as the intro */
+    margin: 40px auto; /* Center the sections */
 ul {
     list-style-type: none;
     padding: 0;
