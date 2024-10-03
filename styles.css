@@ -12,8 +12,8 @@ h1, h2 {
 
 /* General section styling */
 .section {
-    margin: 10px auto; /* Center the sections */
-    padding: 20px; /* Add padding to the sections */
+    margin: 0px auto; /* Center the sections */
+    padding: 0px; /* Add padding to the sections */
     width: 80%; /* Set the width */
     background: none; /* No background */
     box-shadow: none; /* No shadow */
@@ -22,12 +22,12 @@ h1, h2 {
 }
 /* Specific margin for Education Section */
 #education {
-    margin: 20px auto; /* Adjust the top and bottom margins as needed */
+    margin: 0px auto; /* Adjust the top and bottom margins as needed */
 }
 
 /* Specific margin for Skills Section */
 #skills {
-    margin: 20px auto; /* Adjust the top and bottom margins as needed */
+    margin: 0px auto; /* Adjust the top and bottom margins as needed */
 }
 
 
