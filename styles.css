@@ -71,6 +71,15 @@ a:hover {
 }
 
 
+/* Flexbox container for the icons */
+.profile-info div,
+.contact-container div {
+    display: flex;
+    justify-content: center; /* Center the icons horizontally */
+    align-items: center;
+}
+
+
 /* Navigation bar styling */
 nav {
     text-align: right; /* Align the navigation links to the right */
