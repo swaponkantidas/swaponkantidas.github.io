@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Swapon Kanti Das</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="images/swapon.jpg" type="image/jpg">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="blog.html">Blog</a> |
+        <a href="about.html">About</a>
+    </nav>
+
+    <!-- About Page Content -->
+    <section id="about">
+        <div class="container">
+            <!-- Left Side Boxes -->
+            <div class="left-side">
+                <!-- About Myself Box -->
+                <div class="about-box">
+                    <h2>About Myself</h2>
+                    <p>Hello! I'm Swapon Kanti Das, passionate about instructional design, learning & development, web development, and data analysis. I'm always eager to learn new technologies and strive for excellence in my work.</p>
+                </div>
+
+                <!-- About My Vision Box -->
+                <div class="vision-box">
+                    <h2>My Vision</h2>
+                    <p>My vision is to create innovative and efficient learning environments that empower individuals to succeed in their professional and personal lives.</p>
+                </div>
+            </div>
+
+            <!-- Right Side Boxes -->
+            <div class="right-side">
+                <!-- Profile Photo Box -->
+                <div class="photo-box">
+                    <img src="images/swapon.jpg" alt="Swapon Kanti Das" class="profile-photo">
+                </div>
+
+                <!-- Mission Box -->
+                <div class="mission-box">
+                    <h2>My Mission</h2>
+                    <p>My mission is to make learning accessible, engaging, and impactful for diverse learners through creative instructional design and digital tools.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Swapon Kanti Das. All rights reserved.</p>
+    </footer>
+</body>
+</html>
