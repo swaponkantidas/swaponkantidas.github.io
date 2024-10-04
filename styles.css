@@ -78,7 +78,10 @@ a:hover {
     justify-content: center; /* Center the icons horizontally */
     align-items: center;
 }
-
+/* Add margin to the bottom of sections to prevent content from being hidden */
+.section {
+    margin-bottom: 50px; /* Adjust this value if needed */
+}
 
 /* Navigation bar styling */
 nav {
