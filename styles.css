@@ -21,6 +21,10 @@ h1, h2 {
     color: white; /* Text color for better visibility on a black background */
 }
 /* Specific margin for Education Section */
+#intro {
+    margin: 0px auto; /* Adjust the top and bottom margins as needed */
+}
+
 #education {
     margin: 0px auto; /* Adjust the top and bottom margins as needed */
 }
