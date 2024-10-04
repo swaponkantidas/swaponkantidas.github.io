@@ -90,6 +90,71 @@ nav a:hover {
 }
 
 
+
+/* About Page Specific Styling */
+section#about {
+    width: 90%;
+    margin: 50px auto;
+}
+
+/* Container for the two sides */
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; /* Allows content to wrap on smaller screens */
+}
+
+/* Left side: About Myself and Vision */
+.left-side {
+    flex-basis: 60%; /* Takes 60% of the width */
+}
+
+/* Right side: Photo and Mission */
+.right-side {
+    flex-basis: 35%; /* Takes 35% of the width */
+}
+
+/* Styling for the boxes */
+.about-box, .vision-box, .mission-box {
+    background-color: #1c1c1c;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+/* Profile photo box styling */
+.photo-box {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.photo-box img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #00ccff;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stacks content vertically on small screens */
+    }
+
+    .left-side, .right-side {
+        flex-basis: 100%; /* Full width on smaller screens */
+    }
+
+    .photo-box img {
+        width: 120px; /* Smaller size for mobile */
+        height: 120px;
+    }
+}
+
+
+
 /* Footer styling */
 footer {
     text-align: center; /* Center footer text */
