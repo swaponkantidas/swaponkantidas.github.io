@@ -70,6 +70,26 @@ a:hover {
     color: white; /* Text color for better visibility on a black background */
 }
 
+
+/* Navigation bar styling */
+nav {
+    text-align: right; /* Align the navigation links to the right */
+    background-color: #1c1c1c; /* Dark grey background */
+    padding: 10px;
+}
+
+nav a {
+    color: #ffffff; /* White text for the links */
+    text-decoration: none;
+    margin: 0 15px; /* Adds spacing between links */
+    font-size: 18px; /* Size of the text */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+
 /* Footer styling */
 footer {
     text-align: center; /* Center footer text */
