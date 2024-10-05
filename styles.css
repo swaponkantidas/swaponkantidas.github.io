@@ -87,6 +87,15 @@ a:hover {
     margin-bottom: 50px; /* Adjust this value if needed */
 }
 
+
+/* Add margin between social media icons */
+.contact-container a {
+    margin: 0 10px; /* Adds 10px margin to the left and right of each icon */
+}
+
+
+
+
 /* Navigation bar styling */
 nav {
     text-align: right; /* Align the navigation links to the right */
