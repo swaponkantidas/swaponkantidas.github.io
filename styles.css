@@ -84,8 +84,29 @@ a:hover {
 }
 
 .contact-container h2 {
-    margin-bottom: 5px; /* Adjust this value as needed */
+    margin-bottom: 5px; /* Keep it small for minimal space */
 }
+
+.contact-container p {
+    margin-top: 0; /* Remove top margin */
+    margin-bottom: 10px; /* Keep a little space below */
+}
+
+#skills {
+    margin-bottom: 20px; /* Adjust to reduce space below the Skills section */
+}
+
+#contact {
+    margin-top: 0; /* Remove any top margin */
+}
+
+/* Social media icons */
+.contact-container a {
+    margin: 0 10px; /* Spacing between icons */
+    color: #ffffff; /* Ensure the icons are visible */
+    font-size: 24px; /* Adjust icon size */
+}
+
 
 
 /* Add margin to the bottom of sections to prevent content from being hidden */
