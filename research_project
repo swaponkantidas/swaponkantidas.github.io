@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Projects | Swapon Kanti Das</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your existing styles.css -->
+    <link rel="icon" href="images/swapon.jpg" type="image/jpg"> <!-- Link to your favicon -->
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="blog.html">Blog</a> |
+    <a href="research.html">Research Projects</a>
+</nav>
+
+<!-- Research Projects Section -->
+<section id="research">
+    <h1>Research Projects</h1>
+    <div class="research-list">
+        <!-- Research Project 1 -->
+        <div class="research-item">
+            <h2>Title: Secondary Students’ Facial Emotional Expressions during Class</h2>
+            <p><strong>Research Question:</strong> This study aims to investigate whether there is any correlation between students’ facial and self-reported emotions. Also, how teachers’ emotions and behaviors are related to students’ facial and self-reported emotions.</p>
+            <p><strong>Sample:</strong> 150 participants from German secondary schools</p>
+            <p><strong>Result:</strong> It is evident from the result that there is a significant positive correlation between students’ facial and reported joy. Also, there is a significant correlation between teachers’ responses and students’ facial joy.</p>
+        </div>
+
+        <!-- Research Project 2 -->
+        <div class="research-item">
+            <h2>Title: Learning Analytics: Sequence of Questions during Medical History Taking</h2>
+            <p><strong>Research Questions:</strong> 
+                <ol>
+                    <li>To examine the role of questioning items in diagnosing accuracy.</li>
+                    <li>To analyze whether some questions have better predictive power than others.</li>
+                </ol>
+            </p>
+            <p><strong>Sample:</strong> 143 medical students took part in the study.</p>
+            <p><strong>Result:</strong> Machine learning models predicted 9 accurately out of 11 predictions with an accuracy of 82%. The findings indicate that the questioning pattern plays a crucial role in arriving at the correct conclusion in diagnostic simulations.</p>
+        </div>
+
+        <!-- Research Project 3 -->
+        <div class="research-item">
+            <h2>Title: Interest and Effort in Mathematics Affect Math Achievement</h2>
+            <p><strong>Research Question:</strong> The purpose of this study was to investigate the effect of interest and effort on math achievement.</p>
+            <p><strong>Hypothesis:</strong> Interest and effort predict math achievement at the concurrent level.</p>
+            <p><strong>Sample:</strong> Data were collected from 1,501 students from grades 5 to 10.</p>
+            <p><strong>Result:</strong> The result showed that interest significantly predicted math achievement, and in later stages, it continued to impact math achievement positively.</p>
+        </div>
+
+        <!-- Research Project 4 -->
+        <div class="research-item">
+            <h2>Title: The Interrelatedness between Teacher Enjoyment and Teacher-Class Relationship Quality: A Cross-lagged Analysis</h2>
+            <p><strong>Research Question:</strong> This study investigated the causal relationship between teacher enjoyment and teacher-student relationship quality over time.</p>
+            <p><strong>Hypothesis:</strong> Teacher enjoyment and teacher-student relationship quality are positively reciprocally linked over measurement times.</p>
+            <p><strong>Participants:</strong> Data were obtained from 93 teachers.</p>
+            <p><strong>Result:</strong> The study showed positive and significant correlations between teacher enjoyment and the teacher-class relationship, especially from T2 to T3. Contrary to the hypothesis, a clear dominance of one cross-lagged path was evident.</p>
+        </div>
+
+        <!-- Research Project 5 -->
+        <div class="research-item">
+            <h2>Title: The Well-being of Addiction Counsellors in Relation to Other Mental Health Counselors</h2>
+            <p><strong>Research Focus:</strong> Measuring the well-being of addiction counselors in comparison to other mental health counselors.</p>
+        </div>
+
+        <!-- Research Project 6 -->
+        <div class="research-item">
+            <h2>Title: Emotional Intelligence and Self-Esteem of Chittagong University Students</h2>
+            <p><strong>Research Focus:</strong> Investigating the relationship between emotional intelligence and self-esteem among university students.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Footer Section -->
+<footer>
+    <p>&copy; 2024 Swapon Kanti Das. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
