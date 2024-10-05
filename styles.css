@@ -187,3 +187,27 @@ footer {
 footer p {
     margin: 0; /* Remove default margin */
 }
+
+
+/* Research Projects Page Specific Styling */
+section#research {
+    width: 90%;
+    margin: 50px auto;
+}
+
+.research-list {
+    display: flex;
+    flex-direction: column; /* Research items will be listed vertically */
+}
+
+.research-item {
+    background-color: #1c1c1c;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.research-item h2 {
+    color: #00ccff; /* Change the color of research titles */
+}
