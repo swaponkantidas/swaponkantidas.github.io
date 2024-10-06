@@ -109,6 +109,13 @@ a:hover {
 
 
 
+.contact-container a {
+    border: 1px solid red;
+}
+
+
+
+
 /* Add margin to the bottom of sections to prevent content from being hidden */
 .section {
     margin-bottom: 50px; /* Adjust this value if needed */
