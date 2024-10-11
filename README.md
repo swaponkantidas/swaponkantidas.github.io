@@ -1,4 +1,4 @@
-# Portfolio of Swapon Kanti Das
+# Portfolio - Swapon Kanti Das
 
 Welcome to my portfolio! This project showcases my skills and experiences as a professional in instructional design, web development, and data analysis. 
 
