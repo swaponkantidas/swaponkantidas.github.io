@@ -264,7 +264,8 @@ section#research {
     flex: 1; /* Makes the boxes flexible and of equal width */
     border: 1px solid #ccc; /* Adds a border around the boxes */
     padding: 20px; /* Adds internal padding */
-    background-color: #f9f9f9; /* Sets a background color */
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333; /* Dark gray text color */
     border-radius: 8px; /* Rounds the corners of the boxes */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
 }
