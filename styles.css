@@ -249,3 +249,29 @@ section#research {
 .research-item h2 {
     color: #00ccff; /* Change the color of research titles */
 }
+
+/* Style for the BLOG PAGE */
+/* Style for the boxes container */
+#boxes-container {
+    display: flex; /* Enables Flexbox */
+    gap: 20px; /* Adds space between boxes */
+    justify-content: space-between; /* Spreads out the boxes evenly */
+    margin: 20px 0; /* Adds space around the container */
+}
+
+/* Style for individual boxes */
+.box {
+    flex: 1; /* Makes the boxes flexible and of equal width */
+    border: 1px solid #ccc; /* Adds a border around the boxes */
+    padding: 20px; /* Adds internal padding */
+    background-color: #f9f9f9; /* Sets a background color */
+    border-radius: 8px; /* Rounds the corners of the boxes */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    #boxes-container {
+        flex-direction: column; /* Stacks boxes vertically on smaller screens */
+    }
+}
